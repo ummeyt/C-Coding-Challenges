@@ -1,4 +1,4 @@
-/***************************************************************************************
+﻿/***************************************************************************************
  * Very Hard Level of Difficulty
  * 
  * You have to get a new driver's license. You show up at the office at the same time as 

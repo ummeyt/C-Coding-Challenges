@@ -1,4 +1,4 @@
-/***********************************************************************************
+﻿/***********************************************************************************
  * Hard level of difficulty
  * 
  * Create a function to return the Nth number in the Fibonacci sequence as a string.

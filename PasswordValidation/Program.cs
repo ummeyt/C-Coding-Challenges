@@ -1,4 +1,4 @@
-/****************************************************************************************
+﻿/****************************************************************************************
  * Very Hard Level of Difficulty
  * 
  * Create a function that validates a password to conform to the following rules:

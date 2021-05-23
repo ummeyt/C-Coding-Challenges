@@ -1,4 +1,4 @@
-/*************************************************************************
+﻿/*************************************************************************
  * Hard level of difficulty
  * 
  * Create a function to check if a candidate is qualified in an imaginary coding interview of an imaginary tech startup.
